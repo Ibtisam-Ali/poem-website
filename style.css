@@ -1,0 +1,106 @@
+#navbar{
+    background-color: blue;
+    height: 80px;
+    margin-top: -10px;
+    margin-left: -8px;
+    margin-right: -8px;
+    
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+    font-size: xx-large;
+    padding-left: 150px;
+    padding-top: 20px;
+    color: white;
+}
+#head-one{
+    text-align: center;
+    /* font-size: xx-large; */
+    /* color: rgba(0, 255, 255, 0.633); */
+}
+#p-1{
+    text-align: center;
+    font-size: x-large;
+    color: rgb(233, 13, 13);
+    
+}
+#p-2{
+    text-align: center;
+    font-size: l;
+    color: rgb(4, 4, 113);
+
+}
+#star{
+    font-size: small;
+}
+#p-3{
+    text-align: center;
+    font-size: x-large;
+    color: rgb(4, 4, 113);
+    
+}
+#p-4{
+    text-align: center;
+    font-size: larger;
+    color: rgb(1, 1, 163);
+
+}
+#para{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(5, 5, 246);
+}
+#h1{
+   
+    font-family: 'Pacifico', cursive;
+     color: navy;
+     font-size: 400%;
+}
+#para-2{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(156, 119, 192);
+}
+#h2{
+    font-family: 'Dancing Script', cursive;
+/* font-family: 'Libre Baskerville', serif; */
+    color: burlywood;
+    font-size: 400%;
+}
+#para-3{
+    text-align: center;
+    font-size: x-large;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #00ffff;
+}
+#h3{
+    font-family: 'Sacramento', cursive;
+    font-size: 400%;
+    color: salmon;
+}
+#para-4{
+    text-align: center;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: chartreuse;
+}
+#h4{
+    font-family: 'Parisienne', cursive;
+    font-size: 400%;
+    color: skyblue;
+}
+#para-5{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: teal;
+}
+#h5{
+
+    font-family: 'Homemade Apple', cursive;
+    font-size: 400%;
+    color: violet;
+}
